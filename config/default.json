@@ -1,0 +1,6 @@
+{
+  "mongoURI":"mongodb+srv://admin:123@belajar-mongo-b48kc.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId" : "387b9f06223e672f8ba7",
+  "githubSecret" : "31c07b17c959320547f8307f8b57feec4881fa51"
+}
